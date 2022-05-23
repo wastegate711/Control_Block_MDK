@@ -14,6 +14,7 @@
 
 // Команды установки состояния
 #define SET_VALVE_COOL_WATER 0x03
+#define SET_VALVE_HOT_WATER 0x04
 
 // Флаги и статусы состояния.
 

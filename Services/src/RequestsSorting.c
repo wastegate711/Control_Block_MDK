@@ -21,5 +21,7 @@ void IncomingRequest(const uint8_t *data)
             break;
         case SET_VALVE_COOL_WATER:
             break;
+        case SET_VALVE_HOT_WATER:
+            break;
     }
 }
